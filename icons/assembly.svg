@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g stroke="#4ADE80" stroke-width="14" stroke-linecap="round">
+    <path d="M100 38v18M156 38v18M100 200v18M156 200v18M38 100h18M38 156h18M200 100h18M200 156h18"/>
+  </g>
+  <rect x="58" y="58" width="140" height="140" rx="20" fill="#1B3B2A" stroke="#4ADE80" stroke-width="12"/>
+  <text x="128" y="148" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="58" font-weight="900" fill="#4ADE80">ASM</text>
+</svg>
